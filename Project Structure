@@ -1,0 +1,25 @@
+/cms/
+├── index.php
+├── login.php
+├── logout.php
+├── post.php
+├── admin/
+│   ├── dashboard.php
+│   ├── posts.php
+│   ├── add_post.php
+│   ├── edit_post.php
+│   ├── delete_post.php
+│   ├── users.php
+│   └── header.php
+├── includes/
+│   ├── config.php
+│   ├── functions.php
+│   ├── header.php
+│   ├── footer.php
+│   └── auth.php
+├── uploads/
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
